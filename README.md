@@ -2,11 +2,11 @@ A dynamic cinema discovery platform powered by React.js, featuring Appwrite for 
 
 ## <a name="tech-stack"> Tech Stack</a>
 
-- **[Appwrite](https://appwrite.io/)** 
-
 - **[React.js](https://react.dev/reference/react)** 
 
 - **[React-use](https://github.com/streamich/react-use)**
+
+- **[Appwrite](https://appwrite.io/)** 
 
 - **[Tailwind CSS](https://tailwindcss.com/)**
 
@@ -14,29 +14,27 @@ A dynamic cinema discovery platform powered by React.js, featuring Appwrite for 
 
 ## <a name="features"> Features</a>
 
- **Browse All Movies**: Explore a wide range of movies available on the platform.
+ **Browse All Movies**: Access an extensive collection of films from various genres and categories.
 
- **Search Movies**: Easily search for specific movies using a search function.
+ **Search Movies**: Quickly locate specific films using intelligent search capabilities.
 
- **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
+ **Trending Movies Functionality**: Showcases currently popular films through intelligent ranking systems and real-time popularity metrics.
 
- **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
+ **Modern Interface**: A sleek and user-friendly interface designed for a great experience.
 
- **Responsiveness**: Fully responsive design that works seamlessly across devices.
-
-Follow these steps to set up the project locally on your machine.
+ **Responsiveness**: Optimized performance across desktop, tablet, and mobile devices.
 
 **Prerequisites**
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
 **Cloning the Repository**
 
 ```bash
 git clone https://github.com/Chimukupo/Movie-Application.git
-cd react-movies
+cd movie-application
 
 ```
 
