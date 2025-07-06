@@ -35,7 +35,7 @@ Follow these steps to set up the project locally on your machine.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/react-movies.git
+git clone https://github.com/Chimukupo/Movie-Application.git
 cd react-movies
 
 ```
