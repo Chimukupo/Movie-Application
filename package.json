@@ -1,7 +1,7 @@
 {
   "name": "movie-app",
-  "homepage": "https://chimukupo.github.io/movie-app/",
-  "private": true,
+  "homepage": "https://chimukupo.github.io/Movie-Application/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
