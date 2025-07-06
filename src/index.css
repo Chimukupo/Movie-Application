@@ -1,19 +1,22 @@
 @import "tailwindcss";
 
-
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
-
 @theme {
-  --color-primary: #030014;
+  --color-primary: 
+#030014;
 
-  --color-light-100: #cecefb;
-  --color-light-200: #a8b5db;
+  --color-light-100: 
+#cecefb;
+  --color-light-200: 
+#a8b5db;
 
-  --color-gray-100: #9ca4ab;
+  --color-gray-100: 
+#9ca4ab;
 
-  --color-dark-100: #0f0d23;
+  --color-dark-100: 
+#0f0d23;
 
   --font-dm-sans: DM Sans, sans-serif;
 
@@ -26,7 +29,8 @@
   body {
     font-family: Arial, Helvetica, sans-serif;
     font-optical-sizing: auto;
-    background: #030014;
+    background: 
+#030014;
   }
 
   h1 {
@@ -145,7 +149,9 @@
 }
 
 @utility text-gradient {
-  @apply bg-linear-to-r from-[#D6C7FF] to-[#AB8BFF] bg-clip-text text-transparent;
+  @apply bg-linear-to-r from-[
+#D6C7FF] to-[
+#AB8BFF] bg-clip-text text-transparent;
 }
 
 @utility fancy-text {
